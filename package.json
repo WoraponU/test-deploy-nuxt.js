@@ -1,0 +1,25 @@
+{
+  "name": "test-deploy-nuxt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://WoraponU@github.com/WoraponU/test-deploy-nuxt.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WoraponU/test-deploy-nuxt.js/issues"
+  },
+  "homepage": "https://github.com/WoraponU/test-deploy-nuxt.js#readme",
+  "dependencies": {
+    "nuxt": "^2.15.2"
+  }
+}
